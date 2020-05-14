@@ -1,5 +1,8 @@
 _repo: Throttled-The-Detection-of-the-German-and-Anarchist-Bomb-Plotters_61996
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61996-h/images/cover.jpg
 creator:
   author:
     agent_name: Tunney, Thomas J. (Thomas Joseph)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '50081'
     url: http://www.gutenberg.org/2009/agents/50081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61996#Throttled-The-Detection-of-the-German-and-Anarchist-Bomb-Plotters
 gutenberg_issued: '2020-05-02'
 gutenberg_type: Text
 identifiers:
