@@ -1,0 +1,31 @@
+_repo: Throttled-The-Detection-of-the-German-and-Anarchist-Bomb-Plotters_61996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tunney, Thomas J. (Thomas Joseph)
+    birthdate: 1873
+    gutenberg_agent_id: '51717'
+    url: http://www.gutenberg.org/2009/agents/51717
+  editor:
+    agent_name: Hollister, Paul M. (Paul Merrick)
+    alias: Hollister, Paul Merrick
+    birthdate: 1890
+    deathdate: 1970
+    gutenberg_agent_id: '50081'
+    url: http://www.gutenberg.org/2009/agents/50081
+description: ''
+gutenberg_issued: '2020-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61996'
+  lccn: '19013619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Secret service -- Germany'
+- !lcc 'D501'
+- GITenberg
+title: Throttled! The Detection of the German and Anarchist Bomb Plotters
+url: http://www.gutenberg.org/ebooks/61996
